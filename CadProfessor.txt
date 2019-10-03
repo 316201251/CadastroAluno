@@ -2,3 +2,5 @@
 Matrícula: 8
 Nome: Valdomiro
 e-mail: valdo@123teste.com
+Telefone: 70707170
+Disciplina que leciona: Nenhuma
