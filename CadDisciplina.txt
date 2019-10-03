@@ -1,3 +1,4 @@
 ﻿								Cadastro de Disciplina
 Código: 2
 Disciplina: Teste
+Curso: Curso
