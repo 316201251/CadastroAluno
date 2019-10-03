@@ -1,3 +1,5 @@
 										Cadastro de Aluno
 RA: 2
 Nome: Telles
+Telefone: 970707070
+e-mail: Tel.les@teste.com
